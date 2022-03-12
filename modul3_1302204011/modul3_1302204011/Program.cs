@@ -10,11 +10,11 @@ namespace modul3_1302204011
     {
         static void Main(string[] args)
         {
-            kodeBuah objek = new kodeBuah();
-
+            kodeBuah objek1 = new kodeBuah();
             kodeBuah.namaBuah inputBuah = kodeBuah.namaBuah.Alpukat;
+            Console.WriteLine("Kode buah " + inputBuah + " adalah " + objek1.getKodeBuah(inputBuah));
 
-            Console.WriteLine("Kode buah " + inputBuah + " adalah " + objek.getKodeBuah(inputBuah));
+           
         }
     }
 }

@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace modul3_1302204011
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            kodeBuah objek = new kodeBuah();
+
+            kodeBuah.namaBuah inputBuah = kodeBuah.namaBuah.Alpukat;
+
+            Console.WriteLine("Kode buah " + inputBuah + " adalah " + objek.getKodeBuah(inputBuah));
         }
     }
 }

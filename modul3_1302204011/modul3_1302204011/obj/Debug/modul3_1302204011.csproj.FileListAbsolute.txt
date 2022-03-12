@@ -1,0 +1,8 @@
+C:\Users\asus\Downloads\Projects\modul3_1302204011\modul3_1302204011\modul3_1302204011\bin\Debug\modul3_1302204011.exe.config
+C:\Users\asus\Downloads\Projects\modul3_1302204011\modul3_1302204011\modul3_1302204011\bin\Debug\modul3_1302204011.exe
+C:\Users\asus\Downloads\Projects\modul3_1302204011\modul3_1302204011\modul3_1302204011\bin\Debug\modul3_1302204011.pdb
+C:\Users\asus\Downloads\Projects\modul3_1302204011\modul3_1302204011\modul3_1302204011\obj\Debug\modul3_1302204011.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\Projects\modul3_1302204011\modul3_1302204011\modul3_1302204011\obj\Debug\modul3_1302204011.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Downloads\Projects\modul3_1302204011\modul3_1302204011\modul3_1302204011\obj\Debug\modul3_1302204011.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Projects\modul3_1302204011\modul3_1302204011\modul3_1302204011\obj\Debug\modul3_1302204011.exe
+C:\Users\asus\Downloads\Projects\modul3_1302204011\modul3_1302204011\modul3_1302204011\obj\Debug\modul3_1302204011.pdb
